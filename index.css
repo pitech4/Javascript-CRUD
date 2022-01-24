@@ -1,0 +1,27 @@
+/* #bodyField {
+    margin: auto;
+    width: 15%;
+    color: white;
+    background-color: black;
+  } */
+
+  html, body {
+    height: 100%;
+  }
+
+  button {
+      margin: 10px;
+  }
+
+  #bodyField {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    flex-direction: column;
+    height: 50%;
+  }
+
+  #addElements {
+    margin: auto; 
+    width: 8%;
+  } 
